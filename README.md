@@ -1,5 +1,7 @@
 # i-am-poor-android-digitalMirko
 
+Downloaded from class GitHub account, edited in Android Studio 3.0.1, run on Google Nexus 5X Android Emulator
+
 Coding Challenge #1 - Using the Layout Editor in Android Studio and Github.
 I downloaded a project. Then followed through the directions for the required elements.
 I then put a few finishing touches on the project to add some life to it. Including a star filled forest at night with 
