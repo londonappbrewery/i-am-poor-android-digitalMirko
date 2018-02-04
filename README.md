@@ -9,3 +9,8 @@ The message "I am Poor!" that was part of the class work along with the coal ima
 portion of the app with the text of being poor on the piece of coal in a white color. 
 
 i-am-poor-android-digitalMirko created by GitHub Classroom
+
+Screen Cap of Project Complete running on Android Emulator - Nexus 5X API 26
+<p align="center">
+  <img src="https://github.com/londonappbrewery/i-am-poor-android-digitalMirko/blob/master/Screenshot_1517722327.png?raw=true" width="350"/>
+  </p>
